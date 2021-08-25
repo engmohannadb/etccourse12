@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+  font-family: 'GESSTextMedium-Medium';
+  src: url('fonts/GESSTextMedium-Medium.eot?#iefix') format('embedded-opentype'),  url('fonts/GESSTextMedium-Medium.otf')  format('opentype'),
+	     url('fonts/GESSTextMedium-Medium.woff') format('woff'), url('fonts/GESSTextMedium-Medium.ttf')  format('truetype'), url('fonts/GESSTextMedium-Medium.svg#GESSTextMedium-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ @font-face {font-family:"GE SS Two Light";src:url("fonts/GE_SS_Two_Light.eot?") format("eot"),url("fonts/GE_SS_Two_Light.woff") format("woff"),url("GE_SS_Two_Light.ttf") format("truetype"),url("fonts/GE_SS_Two_Light.svg#GESSTwoLight-Light") format("svg");font-weight:normal;font-style:normal;}
+ 
+@font-face {font-family:"GE_SS_TEXT_LIGHT";src:url("fonts/GE_SS_TEXT_LIGHT.eot?") format("eot"),url("fonts/GE_SS_Two_Light.woff") format("woff"),url("fonts/GE_SS_TEXT_LIGHT.ttf") format("truetype"),url("fonts/GE_SS_TEXT_LIGHT.svg#GESSTwoLight-Light") format("svg");font-weight:normal;font-style:normal;}
+
+html, body {
+            padding:0px;
+            margin:0px;
+        }
+
+header{background-color: white; width: auto;}
+.img-center{margin: 0 auto;
+    display: -webkit-box;}
+.col-md-2 ul{    display: inline-flex;
+    list-style: none;
+    padding-top: 25px;}
+.logo{text-align: center;}
+.home{padding-top: 140px;}
+.course{text-align: center;
+    color: white; font-family: GESSTextMedium-Medium}
+.b1{font-family: GESSTextMedium-Medium; font-size: 35px;border-radius: 19px !important;width: 160px;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);background-color: #ffffff;color: #1a272f ; height: 48px;}
+.b1:hover {background-color: #F0F0F0F0;}
+.navbar{background-image: url(../img/BG.svg) no-repeat center !important;}
+.bott{float: right;padding-top: 25px;}
+.bottons{float: left; padding-top: 20px;}
+.button {background-color: #10becb;border: none;border-radius: 25px;color: white;padding: 10px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}
+.button:hover{background-color: #06737b;color: white;}
+.bottons img{padding-left: 6px;}
+.previous{box-shadow: 1px 5px 5px -4px rgba(0,0,0,0.75); }
+.next{box-shadow: 1px 5px 5px -4px rgba(0,0,0,0.75);}.
+.title{background-color: darkgrey;}
+.hquq{color: white}
+.boxdalel{background-color: white;height: auto; border-radius: 3px; margin-top: 15px}
+.dalel {background-color: #dbe2e8; padding:10px;margin-right: 10px; margin-left: 10px; border-radius: 2px}
+.hrz-txt-scroll{height: 36rem;padding: 15px;overflow: auto; margin-right: 10px;}
+.hrz-txt-scroll p{ font-family: GESSTwoLight-Light}
+.dalel{font-family: GESSTextMedium-Medium}
+.footer{margin: 20px; padding-bottom:10px}
+.w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 44px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: #00c6bf;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+        border-radius: 7px;
+    color: white;
+}
+.w3-button:hover {
+    color: #fff!important;
+    background-color: #04aea8!important;
+}
+.hquq img{margin: auto}
+.hquq span{display: block; margin-bottom: 20px}
+.popover-header{    background-color: #00c6bf;}
+.modal-title{font-family: GESSTextMedium-Medium ; }
+.modal-header{}
+
+
+
+
+
+
+
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+    
+    .bottons{float: none !important; display: inline-grid; }
+    .hquq{display: none;}
+    .hrz-txt-scroll {
+    height: 21rem;
+  
+}
+    
+}
+
+

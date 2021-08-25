@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="44" viewBox="0 0 135 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00c6bf;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 21px;
+        font-family: SanFranciscoDisplay-Medium, San Francisco Display;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <g id="Back" transform="translate(-83 -963)">
+    <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-1" width="135" height="44" rx="22" transform="translate(83 963)"/>
+    <text id="Back-2" data-name="Back" class="cls-2" transform="translate(190 993)"><tspan x="-44.707" y="0">Back</tspan></text>
+    <g id="Group_79" data-name="Group 79" transform="translate(103.015 895.03)">
+      <g id="Group_78" data-name="Group 78" transform="translate(0 76.97)">
+        <path id="Path_331" data-name="Path 331" class="cls-3" d="M24.785,83.65H2.325l4.722-5.293A.833.833,0,1,0,5.8,77.248L.486,83.209a1.913,1.913,0,0,0,0,2.548L5.8,91.718a.833.833,0,1,0,1.243-1.109L2.325,85.316H24.785a6.524,6.524,0,1,1,0,13.048H17.6a.833.833,0,1,0,0,1.666h7.186a8.19,8.19,0,1,0,0-16.38Z" transform="translate(0 -76.97)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a272f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="x_button" transform="translate(-61 -45)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-1" cx="20" cy="20" r="20" transform="translate(61 45)"/>
+    <g id="menu" transform="translate(47.439 83.067) rotate(-45)">
+      <path id="Path_308" data-name="Path 308" class="cls-2" d="M1.056,89.176h16.9a1.056,1.056,0,0,0,1.056-1.056h0a1.056,1.056,0,0,0-1.056-1.056H1.056A1.056,1.056,0,0,0,0,88.119H0A1.056,1.056,0,0,0,1.056,89.176Z" transform="translate(27 -76.5)"/>
+    </g>
+    <path id="Path_325" data-name="Path 325" class="cls-2" d="M0,77.556H0a1.056,1.056,0,0,0,1.056,1.056h16.9a1.056,1.056,0,0,0,1.056-1.056h0A1.056,1.056,0,0,0,17.957,76.5H1.056A1.056,1.056,0,0,0,0,77.556Z" transform="translate(129.587 3.906) rotate(45)"/>
+  </g>
+</svg>
