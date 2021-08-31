@@ -69,7 +69,8 @@ header{background-color: white; width: auto;}
 .popover-header{    background-color: #00c6bf;}
 .modal-title{font-family: GESSTextMedium-Medium ; }
 .modal-header{}
-
+.bott,bottons{display: none;}
+.bottons{display: none;}
 
 
 
